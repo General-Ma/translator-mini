@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local whisper.cpp source/build installed by setup.sh
+.tools/

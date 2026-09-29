@@ -1,0 +1,68 @@
+[
+  {
+    "directory": "en-zh",
+    "version": "1.9",
+    "source": "https://data.argosopentech.com/argospm/v1/translate-en_zh-1_9.argosmodel",
+    "archive_sha256": "433e7c4f034d87fbe2353161e05f18646d7999452f801a4e1f0378522b9850ab",
+    "archive_bytes": 70743021,
+    "files": {
+      "metadata.json": {
+        "bytes": 135,
+        "sha256": "106086bc1b77d2d5c298aa38be69e8e87263eeb4167b4614b08a030c43d31b6a"
+      },
+      "sentencepiece.model": {
+        "bytes": 806370,
+        "sha256": "872224b85a11edc9d769a94949fd387b67ea85b50708db9f91f32f5b497a9af3"
+      },
+      "README.md": {
+        "bytes": 401,
+        "sha256": "050e546664f0e70d80b6f83aa1da5f04ee85335f4a1b62d1c89184f76100b5dc"
+      },
+      "model/shared_vocabulary.json": {
+        "bytes": 1367577,
+        "sha256": "c0b6e24705ec0489d5b810de365959c1013aecd644cfeca161b54ea1df6a7dc0"
+      },
+      "model/model.bin": {
+        "bytes": 82713318,
+        "sha256": "1a039114d9456b6528fabb65b455b6f156319634a0f984b1f6018f7737d67598"
+      },
+      "model/config.json": {
+        "bytes": 216,
+        "sha256": "3a8660f12559a223969532ff191e5e6f50d4ff24164517edbd6a5090dc5144c6"
+      }
+    }
+  },
+  {
+    "directory": "zh-en",
+    "version": "1.9",
+    "source": "https://data.argosopentech.com/argospm/v1/translate-zh_en-1_9.argosmodel",
+    "archive_sha256": "62e7af5a3a48b530e47b7b3e5c78c2de79073ecd815750d2bf3ab35b4a67da2d",
+    "archive_bytes": 74481402,
+    "files": {
+      "metadata.json": {
+        "bytes": 135,
+        "sha256": "e42259bbbec6cd09ecd16d97d614bebbf1e7351130c6970fe77a2f1ed7f99cca"
+      },
+      "README.md": {
+        "bytes": 393,
+        "sha256": "1bb7a1261520b8f7d1f94b7fd108c0ccfd7333a3e40a2256df274df0a2ff1cc8"
+      },
+      "sentencepiece.model": {
+        "bytes": 804374,
+        "sha256": "72600ea476b3e3b76763919c3a30ef5104d9b473b19567d45251f56034264f54"
+      },
+      "model/config.json": {
+        "bytes": 196,
+        "sha256": "b28e3136fc7a103e29585c10c8124849fb01d649531f58e00cbe240111560cd7"
+      },
+      "model/model.bin": {
+        "bytes": 82713318,
+        "sha256": "edd8c8a6863d36959613ff291074627a1635fab2f51b872ef437e924d238921a"
+      },
+      "model/shared_vocabulary.json": {
+        "bytes": 1368422,
+        "sha256": "c980413009e8041fc42c81730ad4b72ab6cb1313b3b89b1ced261fe5e177b024"
+      }
+    }
+  }
+]
